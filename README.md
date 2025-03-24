@@ -1,6 +1,6 @@
 Software Development Bootcamp Completion Report
 Overview
-Hello! My name is Alois Maingi, and I have recently completed the Software Development Bootcamp at GOMYCODE. This README serves as a reflection of my journey through the Bootcamp and an outline of my readiness to embark on the next phase of my career in software development.
+Hello! My name is Ariel Joe Okoth, and I have recently completed the Software Development Bootcamp at GOMYCODE. This README serves as a reflection of my journey through the Bootcamp and an outline of my readiness to embark on the next phase of my career in software development.
 
 Readiness for the Next Career Step
 Having completed the rigorous curriculum at GOMYCODE, I feel confident and prepared to transition into the professional software development environment. The Bootcamp has equipped me with the essential skills and practical experience needed to contribute effectively to a development team. Here’s how I’m ready for the next step:
